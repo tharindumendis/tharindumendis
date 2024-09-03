@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hello World, I'm J.T.D Mendis 👋
+# I'm J.T.D Mendis 👋
 
 ## About Me
 
