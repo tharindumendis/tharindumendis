@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+J.T.+Dahampriya+Mendis;Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm J.T. Dahampriya Mendis</h1>
+<h3 align="center">A passionate full stack developer & software engineering student from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharindumendis&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
@@ -14,6 +13,7 @@
 - 🎓 Currently pursuing a **BSc (Hons) in Software Engineering**.
 - 💻 Passionate about full-stack development, mobile application design, and responsive web systems.
 - 🚀 Interested in software architecture, cloud platforms, and 3D modeling/graphics.
+- 🌐 Portfolio Website: [tharindumendis.vercel.app](https://tharindumendis.vercel.app/)
 - 📫 How to reach me: **tharindumendis5@gmail.com**
 
 ---
@@ -140,4 +140,5 @@
   <a href="https://linkedin.com/in/tharindu-mendis-72a150261" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/tharindu mendis" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:tharindumendis5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tharindumendis.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
